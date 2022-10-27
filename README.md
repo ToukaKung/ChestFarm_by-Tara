@@ -1,5 +1,5 @@
-getgenv().Server_Hop = true
-getgenv().Chest_Farm = true
+getgenv().Server_Hop = false
+getgenv().Chest_Farm = false
 getgenv().wait_Time = 35 -- Seconds
 
 local placeId = game.PlaceId
